@@ -1,10 +1,10 @@
-# 🚗 **GoFast** – A carpooling website that matches ‘Fastians’ with peers from the same region to ease urban transportation to and from **FAST NUCES, Lahore**.
+# 🚗 **GoFast** – Carpooling Website for FAST NUCES Students
 
 ---
 
 ## 🌐 Scope
 
-GoFast is a web-based platform that targets the **ridesharing domain**, with a special focus on **carpooling**. While services like Uber and Yango dominate urban mobility, carpooling remains relatively untapped — especially for student-specific transportation needs.
+GoFast is a web-based platform that matches ‘Fastians’ with peers from the same region to ease urban transportation to and from **FAST NUCES, Lahore**.
 
 This project aims to serve **students  of FAST Lahore**, enabling them to match with others commuting from similar locations. Initially focused on Lahore, the service is designed to grow as user adoption increases.
 
