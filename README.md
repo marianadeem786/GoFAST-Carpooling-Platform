@@ -14,10 +14,9 @@ This project aims to serve **students  of FAST Lahore**, enabling them to match 
 - 🕒 **Schedule Management**: Drivers can set trip times and manage ride offers.
 - ❗ **Messaging System**: *(Planned for future enhancement)*
 
-> ❌ Note: The platform is currently limited to Lahore and does not include mobile app development. It also only supports carpooling **to and from FAST Lahore**.
+> ❌ Note: The platform is limited to Lahore and does not include mobile app development. It also only supports carpooling **to and from FAST Lahore**.
 
 
----
 
 ## 🛠️ Languages & Tools
 
